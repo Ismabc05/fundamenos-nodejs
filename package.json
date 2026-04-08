@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ismabc05/fundamenos-nodejs/issues"
   },
-  "homepage": "https://github.com/Ismabc05/fundamenos-nodejs#readme"
+  "homepage": "https://github.com/Ismabc05/fundamenos-nodejs#readme",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
 }
