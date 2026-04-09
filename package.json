@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/Ismabc05/fundamenos-nodejs#readme",
   "dependencies": {
-    "isnumber": "^1.0.0"
+    "@ismaelbedmar/platzidate": "^1.0.0",
+    "isnumber": "^1.0.0",
+    "platzidate": "^1.0.0"
   }
 }

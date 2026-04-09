@@ -1,4 +1,4 @@
-const dateFormatter = require("platzidate");
+const dateFormatter = require("@ismaelbedmar/platzidate");
 
 console.log("TimeStamps:", dateFormatter.getTimeStamp())
 console.log("Fecha en Español:", dateFormatter.getLongTime())
