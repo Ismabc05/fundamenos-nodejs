@@ -1,3 +1,6 @@
+// Un módulo en Node.js es un archivo o paquete que contiene funciones, objetos o variables que pueden ser importados y utilizados en otras partes de tu aplicación.
+
+
 const fs = require("fs") // tenemos acceso a todos los archivos de nuestra computadora en nodejs   
 
 const fileName = "example.txt";
