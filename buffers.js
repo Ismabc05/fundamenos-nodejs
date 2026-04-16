@@ -12,5 +12,5 @@ console.log(bufferAlloc)
 bufferAlloc.write("node.js") // escribimos en el buffer
 console.log(bufferAlloc)
 
-const buffertoString = bufferAlloc.toString("utf-8", 0, 7) // lo pasamos a string
+const buffertoString = bufferAlloc.toString("utf-8", 0, 5) // lo pasamos a string
 console.log(buffertoString)
