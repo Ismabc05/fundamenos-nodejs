@@ -41,7 +41,7 @@ Durante este curso trabajé conceptos esenciales del entorno de ejecución Node.
 Clona este repositorio:
 
 ```bash
-git clone TU-URL-DEL-REPOSITORIO
+git clone https://github.com/Ismabc05/fundamenos-nodejs.git
 ```
 
 Ingresa a la carpeta del proyecto:
